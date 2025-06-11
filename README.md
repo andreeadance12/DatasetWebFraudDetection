@@ -13,8 +13,8 @@ The core of this repository is a CSV file with the following structure:
 
 ## Dataset Statistics  
 - **Total entries**: 9048  
-  - **Phishing URLs**: 4928 (sourced from [PhishTank](https://www.phishtank.com/) and [OpenPhish](https://www.openphish.com/)).  
-  - **Legitimate URLs**: 4120 (from a [public dataset](https://data.mendeley.com/datasets/c2gw7fy2j4/3)).  
+  - **4928 phishing URLs**: These entries were carefully sourced from well-known and reputable phishing aggregators, (sourced from [PhishTank](https://www.phishtank.com/) and [OpenPhish](https://www.openphish.com/)), ensuring a high degree of relevance and accuracy for identifying malicious sites. .  
+  - **4120 legitimate URLs**: To provide a balanced perspective, these URLs were drawn from a publicly available ([public dataset](https://data.mendeley.com/datasets/c2gw7fy2j4/3)) dataset, ensuring a diverse representation of genuine websites.  
 
 ## Supplemental Website Content Files  
 A ZIP archive is included, containing individual text files (`1.txt`, `2.txt`, ..., `9048.txt`) with text content of the page for each URL.  
