@@ -25,3 +25,4 @@ A ZIP archive is included, containing individual text files (`1.txt`, `2.txt`, .
 - **Understanding attack vectors**: Examine phishing page characteristics.  
 
 This dataset is ideal for developing different phishing detection solutions.
+## The password for the zip file is: phishing
